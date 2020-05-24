@@ -8,7 +8,7 @@ Dit kunstwerk sprak mij gelijk aan omdat het er speciaal, uniek en toch simpel u
 Ik heb de kunstwerk nagemaakt in Illustrator. Dit was niet heel moeilijk om te maken, het kunstwerk is best eenvoudig.
 Ik heb in Illustrator dit in verschillende lagen gemaakt en het uiteindelijk geexporteerd als svg.
 
-# Proces
+# Het verhaal
 Het verhaal achter het kunstwerk is dat het een boek is met 52 verschillende verhalen uit het leven van 1 persoon. Dit zijn allemaal random verhalen met wat de schrijfster heeft meegemaakt in haar leven als moeder, op werk en in haar vrije tijd. Het zijn allemaal verschillende gedeeltes die samen 1 geheel (boek) vormen.
 Het stukje van de ijsje wat je op het stokje ziet heb ik geinterpreteerd als 1 verhaal.
 Daaorom heb ik er 1 heel ijsje van gemaakt.
